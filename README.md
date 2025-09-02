@@ -37,10 +37,10 @@
 
 ## 🔗 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/rejina-thapa" target="_blank">
+  <a href="[https://www.linkedin.com/in/rejina-thapa](https://www.linkedin.com/in/rejina-thapa-magar-458721314/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:rejina@example.com">
+  <a href="[mailto:rejina@example.com](https://mail.google.com/mail/u/0/#inbox)">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
